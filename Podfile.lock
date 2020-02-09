@@ -1,0 +1,26 @@
+PODS:
+  - MBProgressHUD (0.9.2)
+  - MJRefresh (3.2.0)
+  - SDWebImage (3.8.3):
+    - SDWebImage/Core (= 3.8.3)
+  - SDWebImage/Core (3.8.3)
+
+DEPENDENCIES:
+  - MBProgressHUD (~> 0.9.2)
+  - MJRefresh
+  - SDWebImage (~> 3.8)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  SDWebImage: a72e880a8fe0f7fc31efe15aaed443c074d2a80c
+
+PODFILE CHECKSUM: ba5fc186d4f93a94f50b1513b0e884d8d64b9851
+
+COCOAPODS: 1.8.4
